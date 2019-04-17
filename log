@@ -1,0 +1,245 @@
+commit 275307453be572f4605223bc8299e46d8719da64
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 20:02:31 2019 +0000
+
+    fix
+
+commit 946bdc0ed1eac2bc1cbe087397e4de0120a8e582
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 20:01:49 2019 +0000
+
+    fix
+
+commit 9db8eab7be0cdab41b275c3bafb6ac28fbbd4e7d
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 20:01:16 2019 +0000
+
+    fix
+
+commit ebb412d6bd0288237b083354084ff1c69bc0b7e5
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 19:39:28 2019 +0000
+
+    newer_k8s
+
+commit 3b877c3f1c1762915f0aa2369be3740ee4b92482
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 18:14:52 2019 +0000
+
+    sctp
+
+commit fa828459d531e16e8e4911039dd4978c33f5067f
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 18:14:38 2019 +0000
+
+    sctp
+
+commit c446ad2fb6cd0b5710d3e6a103b7fa1ba1871315
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 29 15:52:42 2019 +0000
+
+    added sctp
+
+commit f9b6ae961a8f515d1c2865e26a1d3f0ee3d2ece4
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 22 20:56:03 2019 +0000
+
+    increased proxy size
+
+commit eeaac5d36a05722b61cfaf3f5a48889cf3c8fa4d
+Author: cb371j <cb371j@att.com>
+Date:   Fri Mar 22 20:49:56 2019 +0000
+
+    drive change
+
+commit e8d91ab8800ca6425163faf8d0c7727eb8ebffc3
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 21 13:18:38 2019 +0000
+
+    updated ceph to mixed config
+
+commit 677372127d0dec75d94ece3e36cea3fc7a18f773
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 21 13:17:27 2019 +0000
+
+    updated ceph to mixed config
+
+commit e212b1630645aa64506b9749a0a590257d85bdab
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 21 13:12:11 2019 +0000
+
+    changed mount letters
+
+commit a995e9e22d04639b69e3f45a630a2744d0d86f3d
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 21 13:08:37 2019 +0000
+
+    increased proxy size
+
+commit f993021dd799ca71dc6c63199d8623c916da7f87
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 21 13:08:22 2019 +0000
+
+    increased proxy size
+
+commit 6856b6a01a910f89d5cd368b8fe28bacc234384f
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 18 15:21:55 2019 +0000
+
+    cleanedup ingress yaml
+
+commit f8e51b800dfb7f61e948f938c566d788a29b88c5
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 18 13:54:08 2019 +0000
+
+    test
+
+commit 18c4d70be52f4a2b22821f394fb5d9fd10e5969e
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 18 13:44:32 2019 +0000
+
+    increasing proxy-body-size values
+
+commit c6709d621b9975b8186202fe37ca7d60ff1964a5
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 18 13:37:07 2019 +0000
+
+    increasing proxy-body-size values
+
+commit 04f14876e3bdc7b821c0d1ea877d11acc9773015
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 18 13:36:26 2019 +0000
+
+    increasing proxy-body-size values
+
+commit 4be3e7674661f625876e87f433afb89676c4c3f3
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 18 13:36:12 2019 +0000
+
+    increasing proxy-body-size values
+
+commit b8e5598522be99699b1ab76bfc189fb592bce44a
+Author: cb371j <cb371j@att.com>
+Date:   Sat Mar 16 13:19:04 2019 +0000
+
+    new site
+
+commit 8511ad397a056f689dbd1fff1b2fec3291e14c2c
+Author: cb371j <cb371j@att.com>
+Date:   Sat Mar 16 13:18:55 2019 +0000
+
+    new site
+
+commit 283c81688ee37c8c316fbb09901a9e2f015ad8ef
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 23:27:01 2019 +0000
+
+    updated endpoints
+
+commit faa74fb8b81b5259387665c1c853b9a1e9fd79cb
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 23:23:48 2019 +0000
+
+    updated neutron yaml
+
+commit f18bd23fd7e3206d98b59e8207707058bb957cb3
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 23:23:13 2019 +0000
+
+    updated profiles
+
+commit 8e25b0ef208959e49d3922f58e35e87ce1dd29eb
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 23:23:05 2019 +0000
+
+    updated profiles
+
+commit 9582dde64363d972fd887a140ecb36ec19ce30f3
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 21:05:39 2019 +0000
+
+    added new site
+
+commit fc796ccb9ddff072e04cf6fe4b05c82e9bb88e3e
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 15:42:00 2019 +0000
+
+    another neutron change
+
+commit 5661a0128dd43d48c05e5591c78f01aae8fb95f7
+Author: cb371j <cb371j@att.com>
+Date:   Tue Mar 12 15:41:33 2019 +0000
+
+    another neutron change
+
+commit b5de494c5b2b7de93eba79e12108c712741d0838
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 11 18:03:02 2019 +0000
+
+    updated journal location
+
+commit 38bfc75e0448ad1abedd21ada532bf563d37136f
+Author: cb371j <cb371j@att.com>
+Date:   Mon Mar 11 17:55:56 2019 +0000
+
+    fixes
+
+commit e49e6214514a978722c1f7680c108c59e055955b
+Author: cb371j <cb371j@att.com>
+Date:   Sat Mar 9 15:58:34 2019 +0000
+
+    added sriov
+
+commit 4f757533e8e8b547411776cf982d8d4844c9dd31
+Author: cb371j <cb371j@att.com>
+Date:   Sat Mar 9 15:47:17 2019 +0000
+
+    original yaml
+
+commit 7a68381d61e52b4d47b65903255bd30134276f0e
+Author: cb371j <cb371j@att.com>
+Date:   Sat Mar 9 15:44:42 2019 +0000
+
+     no ovs
+
+commit 94f1bece11fbdc84d68958a851dd6d477a35d793
+Author: cb371j <cb371j@att.com>
+Date:   Sat Mar 9 15:43:22 2019 +0000
+
+    undoing changes
+
+commit 62317e29e6706c647a6eac0e1b4b784780ca2de2
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 7 19:46:28 2019 +0000
+
+    updated bride mappings
+
+commit 5543cee357921f0d2ce381c4f91c7d2497f8cb81
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 7 19:46:16 2019 +0000
+
+    update sriov addresses
+
+commit 52696a6f40a897113d6cd5b4e30681a82528cbe6
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 7 19:27:51 2019 +0000
+
+    updated yaml labels
+
+commit 01cd63e8a2ac0402cad5918d59588ed2667ad3af
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 7 19:24:55 2019 +0000
+
+    new-neutron
+
+commit 5f7e204058532d0a282ca7fb4a0e0424586d7927
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 7 19:04:14 2019 +0000
+
+    chomp
+
+commit ab161babcd09ff02f1554ea06cabfbe0c19b29e5
+Author: cb371j <cb371j@att.com>
+Date:   Thu Mar 7 18:58:41 2019 +0000
+
+    first
