@@ -104,34 +104,45 @@ data:
         subpath: helm-toolkit
         type: git
     osh:
+     armada-htk:
+        proxy_server: http://one.proxy.att.com:8888
+        type: git
+        location: https://github.com/openstack/openstack-helm
+        subpath: helm-toolkit
+        reference: f902cd14fac7de4c4c9f7d019191268a6b4e9601
+
+
       barbican:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
+        type: git
+        #location: https://git.openstack.org/openstack/openstack-helm
+        location: https://git/cb371j/osh
+        #reference: 66ba0be81c66c20b5ffae709358970d5937a0202
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
         subpath: barbican
-        type: git
       cinder:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
+        type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
         subpath: cinder
-        type: git
       glance:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
+        type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
         subpath: glance
-        type: git
       heat:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
-        subpath: heat
         type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
+        subpath: heat
       helm_toolkit:
         location: https://git.openstack.org/openstack/openstack-helm-infra
         reference: a367bacb4bd3af55dd11dbc5c9855749a123779d
         subpath: helm-toolkit
         type: git
       horizon:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
+        type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
         subpath: horizon
         type: git
       ingress:
@@ -140,10 +151,10 @@ data:
         subpath: ingress
         type: git
       keystone:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
-        subpath: keystone
         type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
+        subpath: keystone
       libvirt:
         location: https://git.openstack.org/openstack/openstack-helm-infra
         reference: a367bacb4bd3af55dd11dbc5c9855749a123779d
@@ -160,16 +171,15 @@ data:
         subpath: memcached
         type: git
       neutron:
-        location: https://git.openstack.org/openstack/openstack-helm
-     #   reference: 66ba0be81c66c20b5ffae709358970d5937a0202
-        reference: c5980043554cf9164231247bf34baf5ae7cf82a5
+        type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
         subpath: neutron
-        type: git
       nova:
-        location: https://git.openstack.org/openstack/openstack-helm
-        reference: 66ba0be81c66c20b5ffae709358970d5937a0202
-        subpath: nova
         type: git
+        location: https://git/cb371j/osh
+        reference: 939a33eac63574d59e17c8e5fd5d20dc3b304ee3
+        subpath: nova
       openvswitch:
         location: https://git.openstack.org/openstack/openstack-helm-infra
         reference: a367bacb4bd3af55dd11dbc5c9855749a123779d
